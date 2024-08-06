@@ -10,7 +10,6 @@
 [![Golang](https://img.shields.io/badge/-EVM%20compatible-555555?style=flat&logo=Ethereum)](https://ethereum.org/en/developers/docs/evm/)
 [![Golang](https://badges.aleen42.com/src/golang.svg)](https://golang.org/)
 [![Go Report Card](https://goreportcard.com/badge/github.com/libraiger/defi-tx-kit)](https://goreportcard.com/report/github.com/libraiger/defi-tx-kit)
-[![Build Status](https://travis-ci.com/libraiger/defi-tx-kit.svg?branch=main)](https://travis-ci.com/libraiger/defi-tx-kit)
 ![GitHub issues](https://img.shields.io/github/issues/libraiger/defi-tx-kit)
 [![DeepSource](https://deepsource.io/gh/libraiger/defi-tx-kit.svg/?label=active+issues)](https://deepsource.io/gh/libraiger/defi-tx-kit/?ref=repository-badge)
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/libraiger/defi-tx-kit/blob/main/LICENSE)
