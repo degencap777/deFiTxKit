@@ -9,11 +9,11 @@
 
 [![Golang](https://img.shields.io/badge/-EVM%20compatible-555555?style=flat&logo=Ethereum)](https://ethereum.org/en/developers/docs/evm/)
 [![Golang](https://badges.aleen42.com/src/golang.svg)](https://golang.org/)
-[![Go Report Card](https://goreportcard.com/badge/github.com/Planxnx/defi-tx-kit)](https://goreportcard.com/report/github.com/Planxnx/defi-tx-kit)
-[![Build Status](https://travis-ci.com/Planxnx/defi-tx-kit.svg?branch=main)](https://travis-ci.com/Planxnx/defi-tx-kit)
-![GitHub issues](https://img.shields.io/github/issues/Planxnx/defi-tx-kit)
-[![DeepSource](https://deepsource.io/gh/Planxnx/defi-tx-kit.svg/?label=active+issues)](https://deepsource.io/gh/Planxnx/defi-tx-kit/?ref=repository-badge)
-[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/Planxnx/defi-tx-kit/blob/main/LICENSE)
+[![Go Report Card](https://goreportcard.com/badge/github.com/libraiger/defi-tx-kit)](https://goreportcard.com/report/github.com/libraiger/defi-tx-kit)
+[![Build Status](https://travis-ci.com/libraiger/defi-tx-kit.svg?branch=main)](https://travis-ci.com/libraiger/defi-tx-kit)
+![GitHub issues](https://img.shields.io/github/issues/libraiger/defi-tx-kit)
+[![DeepSource](https://deepsource.io/gh/libraiger/defi-tx-kit.svg/?label=active+issues)](https://deepsource.io/gh/libraiger/defi-tx-kit/?ref=repository-badge)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://github.com/libraiger/defi-tx-kit/blob/main/LICENSE)
 
 ## WIP 🚧
 
@@ -22,7 +22,7 @@
 <img  align="right" src="https://user-images.githubusercontent.com/37617738/120122855-b1cb0800-c1d5-11eb-9502-8d64bb275337.png" height="140" alt="gopher" />
 
 ```console
-$ go get github.com/Planxnx/defi-tx-kit
+$ go get github.com/libraiger/deFiTxKit
 ```
 
 ## Contributing ![eth](https://user-images.githubusercontent.com/37617738/120125730-1d1bd680-c1e4-11eb-83ad-45664245cae9.png)
